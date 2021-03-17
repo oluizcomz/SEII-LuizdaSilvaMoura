@@ -1,3 +1,4 @@
+#work if import
 #import my_module
 from my_module import find_index, test as texto
 import sys

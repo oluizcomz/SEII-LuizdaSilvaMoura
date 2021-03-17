@@ -1,3 +1,4 @@
+#work whith number
 num = 3
 print(type(num))
 num = -3.14

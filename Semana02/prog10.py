@@ -1,10 +1,11 @@
+#wor with import so
 import os
 from datetime import datetime
 
 #print (dir(os))
 print(os.getcwd())
 print(os.listdir())
-os.chdir('./Semana02')
+os.chdir('..')
 print(os.getcwd())
 
 os.mkdir('OS-demo-N')

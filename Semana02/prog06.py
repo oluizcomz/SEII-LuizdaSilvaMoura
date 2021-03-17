@@ -1,4 +1,4 @@
-
+# work with condicional
 if True:
     print('Condicional was True')
 #language ='Python'
