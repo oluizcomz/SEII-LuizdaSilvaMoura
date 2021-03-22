@@ -1,0 +1,105 @@
+.cpp
+#iclude <iostrem> // entrada e saida de dados
+uaing namespace std;// name espace padrao
+count<< "mensagem" << endl;// count saida de dados, endl pular linha
+ou
+std::count <<"mesagem"<<std::endl;
+-------------------------------------------
+//man
+include "my_module.h"
+//.h
+#ifndef _MY_MODULE_H
+#define _MY_MOULE_H_
+.
+. int função (int entrada);
+.
+#endif
+----------------------------------
+//classe.h
+class nome{
+private:
+	typo nome;
+public:
+	typo nome;
+	typo nome(typo nome);
+
+};
+//classe.cpp
+#include etc
+#include "classe.h"
+using namespace std;
+classe:: costrutor(){}
+classe:: tipo metodo(){
+}
+-------------------
+cin>> variavel //pasando para a variavel
+-------
+int *p1;
+pi = &var // pi = endereçio
+*pi = var2 // pi = conteudo // var = var2
+*argv[]// array de ponteiro para string 
+-----------------------------
+cont
+static 
+---------------
+int main(int argc, char *argv[])
+//argc quantidade de ponteior vulo tamanho do array
+//*argv[]// array de ponteiro para string 
+//primeiro contem o local da main sempre
+------------------------------------
+//strut
+typedef struct nome{
+tipo1 nome1;
+tipo2 nome3;
+void metodo (){
+}
+tipo3 nome3; 
+}apelido;
+main(){
+apelido GRUPO; //apelido *gruopo;
+p.nome1;  // p->nome
+}
+--------------------
+this -> nome =nome;
+private: int nome;
+----------
+class pessoa{
+public:
+	.
+	.
+	.
+private:
+	.
+	.
+	.
+
+};
+----------------------------------
+//alterar objetos
+main(){
+função (objeto);
+}
+função(objeto& variavel){
+variavel.alteração();
+}
+----------------------------------
+//destrutor
+~nomeclasse(){
+delete[] variavel;//deletando vetor int
+}
+-----------------------------------------
+//receber string
+char * var2
+função(char* Var){
+int tamanho  strlen(Var) +1;
+thi-> var2 = new chaer[tamanho];
+strcopy(this->var2, Var)
+}
+-------------------------------
+class classe2 : public classe1{//classe 2 exteds classe1
+public:
+	classe2( tipo var ) : classe1(var){
+	}
+}
+-----------------------------------------
+

@@ -1,0 +1,28 @@
+Prog01
+ sinopse:
+    Uilizaçao de objetos e calculos complexos
+ compilar: 
+    g++ prog01.cpp Complexo.h Complexo.cpp -o prog01
+ execução:
+    ./prog01
+
+Prog 02
+ sinopse:
+    Uilizaçao de função cp com as opçao de recursividade (-R)
+ compilar: 
+    gcc prog02.c cp.h cp.c -o prog02
+execuções(exemplos):
+    ./prog02 prog02.c /home/luiz/Documentos
+    ./prog02 -R /home/luiz/Documentos/pasta/pasta2 /home/luiz/Documentos/
+
+Prog 03
+ sinopse:
+    resoluçõo do problema Torre de Hanói  e ecriita da resposta em Rprog03.txt
+ compilar: 
+    g++ prog03.cpp -o prog03
+ execuções(exemplos):
+    chame o programa com um parametro inteiro (quantidade dem peças na torre) na frente
+    ./prog03 3
+
+
+
