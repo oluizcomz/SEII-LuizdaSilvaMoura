@@ -1,0 +1,4 @@
+para a execução  deve ativar o env source env/bin/activate
+executar o redirecionador python3 app.py 
+e no navegador acessar http://127.0.0.1:5000/
+localHost/
