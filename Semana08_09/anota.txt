@@ -1,0 +1,4 @@
+para transformar ui em Py layout
+pyside2-uic .\Layout.ui -o GuiCal.py 
+para transformar ui em Py resorce
+pyside2-rcc .\resource.qrc -o resource_rc.py 
