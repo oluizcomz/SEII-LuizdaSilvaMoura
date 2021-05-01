@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/icones">
+        <file>icones/abrir.png</file>
+        <file>icones/cancel.png</file>
+        <file>icones/copy.png</file>
+        <file>icones/desfazer.png</file>
+        <file>icones/info.png</file>
+        <file>icones/new.png</file>
+        <file>icones/paste.png</file>
+        <file>icones/recortar.png</file>
+        <file>icones/refazer.png</file>
+        <file>icones/save.png</file>
+        <file>icones/salvarcomo.png</file>
+    </qresource>
+</RCC>
