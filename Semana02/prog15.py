@@ -1,7 +1,7 @@
 #work csv
 import csv
 
-with open('names.csv', 'r') as csv_file:
+with open('names.csv', 'rb') as csv_file:
     csv_reader = csv.DictReader(csv_file)
     #abrindo o csv para leitura
 
